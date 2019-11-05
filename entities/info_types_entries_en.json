@@ -1,0 +1,18 @@
+[
+  {
+    "value": "company",
+    "synonyms": [
+      "companies",
+      "company"
+    ]
+  },
+  {
+    "value": "price",
+    "synonyms": [
+      "price",
+      "price types",
+      "price-types",
+      "prices"
+    ]
+  }
+]

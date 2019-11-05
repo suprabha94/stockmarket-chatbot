@@ -1,0 +1,74 @@
+[
+  {
+    "id": "4d651fa8-211d-4db0-93b2-29155e484105",
+    "data": [
+      {
+        "text": "for ",
+        "userDefined": false
+      },
+      {
+        "text": "last friday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbdf63f5-472d-4864-a7b5-8af6eff80a7a",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "friday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2790f1d0-0948-4582-9bf5-8a65dfbf9d3c",
+    "data": [
+      {
+        "text": "closing",
+        "alias": "price_type",
+        "meta": "@price_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5a0722d-4349-487f-9d41-1d68cf0354f2",
+    "data": [
+      {
+        "text": "get me the ",
+        "userDefined": false
+      },
+      {
+        "text": "closing",
+        "alias": "price_type",
+        "meta": "@price_type",
+        "userDefined": false
+      },
+      {
+        "text": " price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

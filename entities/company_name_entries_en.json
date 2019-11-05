@@ -1,0 +1,38 @@
+[
+  {
+    "value": "Amazon",
+    "synonyms": [
+      "Amazon"
+    ]
+  },
+  {
+    "value": "Apple",
+    "synonyms": [
+      "Apple"
+    ]
+  },
+  {
+    "value": "Facebook",
+    "synonyms": [
+      "Facebook"
+    ]
+  },
+  {
+    "value": "Google",
+    "synonyms": [
+      "Google"
+    ]
+  },
+  {
+    "value": "IBM",
+    "synonyms": [
+      "IBM"
+    ]
+  },
+  {
+    "value": "Microsoft",
+    "synonyms": [
+      "Microsoft"
+    ]
+  }
+]

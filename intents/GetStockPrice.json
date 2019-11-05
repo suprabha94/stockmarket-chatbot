@@ -1,0 +1,101 @@
+{
+  "id": "a96d5cf7-522c-4ce1-895e-da7c63ed4b9b",
+  "name": "GetStockPrice",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.getStockPrice",
+      "affectedContexts": [
+        {
+          "name": "GetStockPrice-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1e5b78f0-cbba-4bb8-a391-97a233533b47",
+          "required": true,
+          "dataType": "@company_name",
+          "name": "company_name",
+          "value": "$company_name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What company would you like information on? I have prices for google, apple, amazon, IBM, Facebook, Microsoft."
+            },
+            {
+              "lang": "en",
+              "value": "Would you like information on Google, Apple, Amazon, IBM, Facebook or Microsoft?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "280a45cc-e018-4fb5-b925-8345ed57bdf4",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For which date would you like to see the price for?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "ac5d1004-637c-4b0d-9605-a797b91b7dd2",
+          "required": true,
+          "dataType": "@price_type",
+          "name": "price_type",
+          "value": "$price_type",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which type of price would you like to see? We have open, close, high, low."
+            },
+            {
+              "lang": "en",
+              "value": "Would you like to see open/closing/high or low prices?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

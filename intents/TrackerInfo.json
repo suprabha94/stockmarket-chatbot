@@ -1,0 +1,45 @@
+{
+  "id": "047c89f7-a229-4f8b-a898-c58f1e313a15",
+  "name": "TrackerInfo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.TrackerInfo",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f01bb4e9-a97e-41a1-b91f-1239d85b5c1b",
+          "required": false,
+          "dataType": "@info_types",
+          "name": "info_types",
+          "value": "$info_types",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,258 @@
+[
+  {
+    "id": "1bfbb4e1-cc3f-4f34-b2df-2a12e73fceae",
+    "data": [
+      {
+        "text": "get me the stock price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "98cb7bc2-863e-4365-b4a6-73e3bec4b8d3",
+    "data": [
+      {
+        "text": "get me the stock price ",
+        "userDefined": false
+      },
+      {
+        "text": "on friday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "apple",
+        "alias": "company_name",
+        "meta": "@company_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45238a80-7607-4151-8145-f83102451ebc",
+    "data": [
+      {
+        "text": "get me the stock price for ",
+        "userDefined": false
+      },
+      {
+        "text": "apple",
+        "alias": "company_name",
+        "meta": "@company_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a38ab8e4-1086-4eeb-8bce-b0f53ed92969",
+    "data": [
+      {
+        "text": "Stock price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfc808b0-d551-49a9-804a-9cf5bff8ff87",
+    "data": [
+      {
+        "text": "opening",
+        "alias": "price_type",
+        "meta": "@price_type",
+        "userDefined": false
+      },
+      {
+        "text": " price ",
+        "userDefined": false
+      },
+      {
+        "text": "on friday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8579c21a-a309-426b-a643-b9f2fc5f6533",
+    "data": [
+      {
+        "text": "price ",
+        "userDefined": false
+      },
+      {
+        "text": "on friday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "292b8255-b8c8-4f98-b259-b5c73d550aa2",
+    "data": [
+      {
+        "text": "apple",
+        "alias": "company_name",
+        "meta": "@company_name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on friday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97493f48-1c92-4eda-a116-74e407de5224",
+    "data": [
+      {
+        "text": "opening",
+        "alias": "price_type",
+        "meta": "@price_type",
+        "userDefined": false
+      },
+      {
+        "text": " price for ",
+        "userDefined": false
+      },
+      {
+        "text": "apple",
+        "alias": "company_name",
+        "meta": "@company_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "581200da-db2b-4e86-95be-e8151aa9e2b3",
+    "data": [
+      {
+        "text": "get me the price for ",
+        "userDefined": false
+      },
+      {
+        "text": "apple",
+        "alias": "company_name",
+        "meta": "@company_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22e78804-21b8-42d5-88ec-aa834ab640c8",
+    "data": [
+      {
+        "text": "opening",
+        "alias": "price_type",
+        "meta": "@price_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1747f78d-c32b-48e2-9fbf-71caa136dd43",
+    "data": [
+      {
+        "text": "open",
+        "alias": "price_type",
+        "meta": "@price_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9edb3e7a-d3ea-49f5-ba82-96e582678b21",
+    "data": [
+      {
+        "text": "IBM",
+        "alias": "company_name",
+        "meta": "@company_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eeaae854-955c-44ef-bc04-dc390c1d973c",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "apple",
+        "alias": "company_name",
+        "meta": "@company_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed9a94d1-8417-474f-88d4-6d629bea41e8",
+    "data": [
+      {
+        "text": "I\u0027m interested in ",
+        "userDefined": false
+      },
+      {
+        "text": "google",
+        "alias": "company_name",
+        "meta": "@company_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

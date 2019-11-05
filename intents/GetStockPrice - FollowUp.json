@@ -1,0 +1,76 @@
+{
+  "id": "5f86df36-2b18-47d5-8a28-7aabeea6828b",
+  "parentId": "a96d5cf7-522c-4ce1-895e-da7c63ed4b9b",
+  "rootParentId": "a96d5cf7-522c-4ce1-895e-da7c63ed4b9b",
+  "name": "GetStockPrice - FollowUp",
+  "auto": true,
+  "contexts": [
+    "GetStockPrice-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.getStockPrice-FollowUp",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a3d9dc6d-dcdd-4dac-ad8d-87658cde972e",
+          "required": true,
+          "dataType": "@price_type",
+          "name": "price_type",
+          "value": "$price_type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#GetStockPrice-FollowUp.price_type",
+          "isList": false
+        },
+        {
+          "id": "fbf1dc11-f71f-47cf-b753-4fa6bcc37c99",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#GetStockPrice-FollowUp.date",
+          "isList": false
+        },
+        {
+          "id": "ac56b071-028e-42d4-a6b5-b7c8557bcd94",
+          "required": true,
+          "dataType": "@company_name",
+          "name": "company_name",
+          "value": "$company_name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#GetStockPrice-FollowUp.company_name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

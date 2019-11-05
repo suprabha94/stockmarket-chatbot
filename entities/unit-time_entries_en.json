@@ -1,0 +1,113 @@
+[
+  {
+    "value": "century",
+    "synonyms": [
+      "centuries",
+      "century"
+    ]
+  },
+  {
+    "value": "day",
+    "synonyms": [
+      "day",
+      "days"
+    ]
+  },
+  {
+    "value": "decade",
+    "synonyms": [
+      "decade",
+      "decades"
+    ]
+  },
+  {
+    "value": "fortnight",
+    "synonyms": [
+      "fortnight",
+      "fortnights"
+    ]
+  },
+  {
+    "value": "hour",
+    "synonyms": [
+      "hour",
+      "hours"
+    ]
+  },
+  {
+    "value": "leap year",
+    "synonyms": [
+      "leap year",
+      "leap years"
+    ]
+  },
+  {
+    "value": "millenium",
+    "synonyms": [
+      "millenium",
+      "milleniums"
+    ]
+  },
+  {
+    "value": "millisecond",
+    "synonyms": [
+      "millisec",
+      "millisecond",
+      "milliseconds",
+      "ms"
+    ]
+  },
+  {
+    "value": "minute",
+    "synonyms": [
+      "minute",
+      "minutes"
+    ]
+  },
+  {
+    "value": "month",
+    "synonyms": [
+      "mo",
+      "month",
+      "months"
+    ]
+  },
+  {
+    "value": "second",
+    "synonyms": [
+      "sec",
+      "second",
+      "seconds"
+    ]
+  },
+  {
+    "value": "sidereal day",
+    "synonyms": [
+      "sidereal day",
+      "sidereal days"
+    ]
+  },
+  {
+    "value": "sidereal year",
+    "synonyms": [
+      "sidereal year",
+      "sidereal years"
+    ]
+  },
+  {
+    "value": "week",
+    "synonyms": [
+      "week",
+      "weeks",
+      "wk",
+      "wks"
+    ]
+  },
+  {
+    "value": "year",
+    "synonyms": [
+      "year",
+      "years"
+    ]
+  }
+]

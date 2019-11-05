@@ -1,0 +1,86 @@
+[
+  {
+    "id": "3164a04a-c6f6-4cdc-b7dd-e39b34fd87b0",
+    "data": [
+      {
+        "text": "what types of ",
+        "userDefined": false
+      },
+      {
+        "text": "prices",
+        "alias": "info_types",
+        "meta": "@info_types",
+        "userDefined": true
+      },
+      {
+        "text": " do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48fbbc05-7a16-4e34-be22-3e4beec215b3",
+    "data": [
+      {
+        "text": "I need to know the ",
+        "userDefined": false
+      },
+      {
+        "text": "price",
+        "alias": "info_types",
+        "meta": "@info_types",
+        "userDefined": true
+      },
+      {
+        "text": " types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3c48d1b-5565-4b58-aace-68c63c326643",
+    "data": [
+      {
+        "text": "can i get the ",
+        "userDefined": false
+      },
+      {
+        "text": "company",
+        "alias": "info_types",
+        "meta": "@info_types",
+        "userDefined": true
+      },
+      {
+        "text": " names?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b30423a0-765b-47c8-abe7-b08766974ec5",
+    "data": [
+      {
+        "text": "price",
+        "alias": "info_types",
+        "meta": "@info_types",
+        "userDefined": true
+      },
+      {
+        "text": " types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
